@@ -1,0 +1,6 @@
+[window]
+  opacity = 0.6
+
+[font]
+  size = 16.0
+  normal = { family = "Inconsolata Nerd Font", style = "Regular" } 
